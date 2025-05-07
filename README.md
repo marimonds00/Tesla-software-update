@@ -60,7 +60,7 @@
 
   <div id="result">
     <h2>Your Tesla is ready!</h2>
-    <img id="custom-car" src="https://via.placeholder.com/600x300?text=Your+Tesla" alt="Custom Tesla"/>
+    <img id="custom-car" src="https://via.placeholder.com/600x300?text=Your+Custom+Tesla" alt="Custom Tesla"/>
     <a href="https://example.com/car-images" target="_blank">Click here to view your custom Tesla</a>
   </div>
 
